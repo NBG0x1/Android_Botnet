@@ -1,4 +1,4 @@
-# Android_Botnet
+# Anubis Android Banking Botnet v.2.5
 
 Решил добавить ботнет Anubis который у всех на слуху с целью исследовать его поковырять код.. 
 Anubis Android Banking Botnet v.2.5 | https://bayfiles.com/A212B6f3nb/Anubis_2.5_rar
